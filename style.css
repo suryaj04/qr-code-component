@@ -24,6 +24,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
 .box h4{
     padding-block: 24px 16px;
@@ -39,4 +40,7 @@ body{
     letter-spacing: 0.2px;
     font-size: 15px;
     line-height: 140%;
+}
+.attribution{
+    margin-top: 20px;
 }
